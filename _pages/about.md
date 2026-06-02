@@ -111,8 +111,8 @@ We propose LOGO, an efficient long-context alignment training strategy that sign
 - *2024* &nbsp; Huawei "Intelligent Base" Scholarship, Soochow University
 - *2023&2024* &nbsp; Outstanding Graduate Student, Soochow University
 - *2022* &nbsp; Third Prize (National Level), China Collegiate Software Design Competition
-- *2022* &nbsp; Outstanding Youth League Member, Soochow University
-- *2022* &nbsp; Outstanding Student Leader, Soochow University
+
+
 
 
 # 📖 Educations
