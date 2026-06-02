@@ -20,6 +20,7 @@ I am currently a Research Intern at Xiaohongshu (小红书), Pevek Team (Applied
 
 
 # 🔥 News
+- *2026.06*: &nbsp;🎉🎉 One survey paper accepted by **TACL**!
 - *2026.01*: &nbsp;🎉🎉 One paper (IS-CoT) accepted by **ACL 2026**!
 - *2025.12*: &nbsp;🎉🎉 One paper (CGMIS) accepted by **AAAI 2026**!
 - *2025.09*: &nbsp; Started Research Internship at **Xiaohongshu (小红书)** Redone Team!
