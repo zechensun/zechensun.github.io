@@ -36,7 +36,7 @@ I am currently a Research Intern at Xiaohongshu (小红书), Pevek Team (Applied
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2026</div><img src='/images/iscot.png' alt="IS-CoT" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-**IS-CoT: Breaking the Long-form Generation Collapse via Interleaved Structural Thinking**
+**IS-CoT: Breaking the Long-form Generation Collapse via Interleaved Structural Thinking**(https://aclanthology.org/2026.acl-long.911/)
 
 **Zechen Sun**, Yuyang Sun, Zecheng Tang, Juntao Li, Wenpeng Hu, Wenliang Chen, Zhunchen Luo, Guotong Geng, Min Zhang
 
