@@ -58,7 +58,7 @@ We propose CGMIS, a concept-graph-based framework for synthesizing verifiable mu
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TACL</div><img src='/images/tacl2.png' alt="Survey" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-**Data Foundations of Long-Context Language Models: A Survey**
+[**Data Foundations of Long-Context Language Models: A Survey**](https://direct.mit.edu/tacl/article/doi/10.1162/TACL.a.775/137780)
 
 **Zechen Sun**, Yuyang Sun, Zhaochen Su, Zecheng Tang, Juntao Li, Wenliang Chen, Ao Zhou, Min Zhang
 
