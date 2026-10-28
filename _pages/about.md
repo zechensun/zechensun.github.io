@@ -21,8 +21,8 @@ I am currently a Research Intern at Tencent Hunyuan Foundation Model Department-
 
 # 🔥 News
 - *2026.09*: &nbsp; Started a Research Internship at Hunyuan Foundation Model Department-P1, working on Long-context Language Models!
-- *2026.09*: We released [Verify Before You Distill: Prompt-Level Teacher Gating for On-Policy Distillation] [![arXiv Paper](https://img.shields.io/badge/arXiv-Paper-b31b1b.svg)](https://arxiv.org/abs/2609.02998)
-- *2026.08*: We released [D$^3$-MOPD: Adaptive Dynamic Domain ScheDuling for Efficient Multi-Teacher Distillation][![arXiv Paper](https://img.shields.io/badge/arXiv-Paper-b31b1b.svg)](https://arxiv.org/abs/2608.24987)
+- *2026.09*: We released Verify Before You Distill: Prompt-Level Teacher Gating for On-Policy Distillation [![arXiv Paper](https://img.shields.io/badge/arXiv-Paper-b31b1b.svg)](https://arxiv.org/abs/2609.02998)
+- *2026.08*: We released D$^3$-MOPD: Adaptive Dynamic Domain ScheDuling for Efficient Multi-Teacher Distillation[![arXiv Paper](https://img.shields.io/badge/arXiv-Paper-b31b1b.svg)](https://arxiv.org/abs/2608.24987)
 - *2026.06*: &nbsp;🎉🎉 One survey paper accepted by **TACL**!
 - *2026.01*: &nbsp;🎉🎉 One paper (IS-CoT) accepted by **ACL 2026**!
 - *2025.12*: &nbsp;🎉🎉 One paper (CGMIS) accepted by **AAAI 2026**!
