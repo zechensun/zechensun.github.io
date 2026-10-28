@@ -35,7 +35,7 @@ I am currently a Research Intern at Tencent Hunyuan Foundation Model Department-
 
 ## 📄 Long-context Language Models
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2026</div><img src='/images/iscot.png' alt="IS-CoT" width="70%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2026</div><img src='/images/iscot.png' alt="IS-CoT" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [**IS-CoT: Breaking the Long-form Generation Collapse via Interleaved Structural Thinking**](https://aclanthology.org/2026.acl-long.911/)
@@ -46,7 +46,7 @@ We identify length collapse in long-form LLM generation and introduce a plan-wri
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2026</div><img src='/images/cgmis2.png' alt="CGMIS" width="70%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2026</div><img src='/images/cgmis2.png' alt="CGMIS" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [**CGMIS: Concept-Graph Based Multi-Hop Instructions Synthesis for Enhancing Long-Context Reasoning**](https://ojs.aaai.org/index.php/AAAI/article/view/40599)
@@ -57,7 +57,7 @@ CGMIS synthesizes verifiable multi-hop instructions from arbitrary corpora using
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TACL</div><img src='/images/tacl2.png' alt="Survey" width="70%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TACL</div><img src='/images/tacl2.png' alt="Survey" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [**Data Foundations of Long-Context Language Models: A Survey**](https://direct.mit.edu/tacl/article/doi/10.1162/TACL.a.775/137780)
@@ -68,7 +68,7 @@ This survey reviews data properties, construction methods, and evaluation practi
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML 2025</div><img src='/images/logo.png' alt="LOGO" width="70%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML 2025</div><img src='/images/logo.png' alt="LOGO" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [**LOGO: Long cOntext aliGnment via efficient preference Optimization**](https://proceedings.mlr.press/v267/tang25j.html)
