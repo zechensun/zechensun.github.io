@@ -16,11 +16,11 @@ I am Zechen Sun (孙泽辰), a Ph.D. student at the School of Computer Science a
 
 My research interests include **Long-context Language Models** and **Shortcut Learning in Large Language Models**.
 
-I am currently a Research Intern at **Hunyuan AI Data**, focusing on Long-context Language Models.
+I am currently a Research Intern at Tencent Hunyuan Foundation Model Department-P1 (Project UP intern (青云计划实习生)), focusing on Long-context Language Models.
 
 
 # 🔥 News
-- *2026.09*: &nbsp; Started Research Internship at **Hunyuan AI Data**, working on Long-context Language Models!
+- *2026.09*: &nbsp; Started a Research Internship at Hunyuan Foundation Model Department-P1, working on Long-context Language Models!
 - *2026.06*: &nbsp;🎉🎉 One survey paper accepted by **TACL**!
 - *2026.01*: &nbsp;🎉🎉 One paper (IS-CoT) accepted by **ACL 2026**!
 - *2025.12*: &nbsp;🎉🎉 One paper (CGMIS) accepted by **AAAI 2026**!
@@ -108,6 +108,7 @@ We propose LOGO, an efficient long-context alignment training strategy that sign
 
 
 # 🎖 Honors and Awards
+- *2026* &nbsp; National Scholarship (Ranked 1st), Soochow University
 - *2024&2025* &nbsp; Academic Excellence First-Class Scholarship, Soochow University
 - *2024* &nbsp; Huawei "Intelligent Base" Scholarship, Soochow University
 - *2023&2024* &nbsp; Outstanding Graduate Student, Soochow University
@@ -122,6 +123,6 @@ We propose LOGO, an efficient long-context alignment training strategy that sign
 
 
 # 💻 Internships
-- *2026.09 - Present*, Research Intern, **Hunyuan AI Data (混元AI Data)**, China. Focusing on Long-context Language Models.
-- *2025.09 - 2026.09*, Research Intern, Pevek Team (Applied Algorithm Department / Foundation Model Team), **Xiaohongshu (小红书)**, China. Focused on Post-training techniques including SFT data synthesis, data mixture optimization, on-policy distillation, and model generalization.
-- *2022.07 - 2022.09*, Algorithm Intern, CTO Line - Business Platform, **Alibaba Group**, Hangzhou, China. Participated in the Soochow University-Alibaba AIR project. Designed category prediction algorithms on large-scale noisy product data (10M+ samples, 13,000+ categories), improving RoBERTa-based model accuracy by ~5%. The model has been deployed in production.
+- *2026.09 - Present*, Research Intern, **Tencent Hunyuan Foundation Model Department-P1 (Project UP intern (青云计划实习生))**, China. Focusing on Long-context Language Models.
+- *2025.09 - 2026.09*, Research Intern, **Allspark-Pevek Team (Applied Algorithm Department / Foundation Model), Xiaohongshu (小红书)**, China. Focused on Post-training techniques including SFT data synthesis and on-policy distillation.
+- *2022.07 - 2022.09*, Algorithm Intern, CTO Line - Business Platform, **Alibaba Group**, Hangzhou, China. Participated in the Soochow University-Alibaba AIR project.
