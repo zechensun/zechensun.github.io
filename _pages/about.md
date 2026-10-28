@@ -21,8 +21,8 @@ I am currently a Research Intern at Tencent Hunyuan Foundation Model Department-
 
 # 🔥 News
 - *2026.09*: &nbsp; Started a Research Internship at Tencent Hunyuan Foundation Model Department-P1 through Project UP (青云计划实习生), working on Long-context Language Models!
-- *2026.09*: &nbsp; We released Verify Before You Distill: Prompt-Level Teacher Gating for On-Policy Distillation. [![arXiv Paper](https://img.shields.io/badge/arXiv-Paper-b31b1b.svg?logo=arxiv&logoColor=white)](https://arxiv.org/abs/2609.02998)
-- *2026.08*: &nbsp; We released D$^3$-MOPD: Adaptive Dynamic Domain ScheDuling for Efficient Multi-Teacher Distillation. [![arXiv Paper](https://img.shields.io/badge/arXiv-Paper-b31b1b.svg?logo=arxiv&logoColor=white)](https://arxiv.org/abs/2608.24987)
+- *2026.09*: &nbsp; We released Verify Before You Distill: Prompt-Level Teacher Gating for On-Policy Distillation [![arXiv Paper](https://img.shields.io/badge/arXiv-Paper-b31b1b.svg?logo=arxiv&logoColor=white)](https://arxiv.org/abs/2609.02998)
+- *2026.08*: &nbsp; We released D$^3$-MOPD: Adaptive Dynamic Domain ScheDuling for Efficient Multi-Teacher Distillation [![arXiv Paper](https://img.shields.io/badge/arXiv-Paper-b31b1b.svg?logo=arxiv&logoColor=white)](https://arxiv.org/abs/2608.24987)
 - *2026.06*: &nbsp;🎉🎉 One survey paper accepted by **TACL**!
 - *2026.01*: &nbsp;🎉🎉 One paper (IS-CoT) accepted by **ACL 2026**!
 - *2025.12*: &nbsp;🎉🎉 One paper (CGMIS) accepted by **AAAI 2026**!
@@ -87,13 +87,9 @@ LOGO improves long-context alignment through efficient preference optimization a
 
   Zechen Sun, Zhiwei Zhang, Fei Zhao, Juntao Li, Mu Chuan, Huayu Deng, Guojian Zhan, Wenliang Chen, Yao Hu, Min Zhang
 
-  We propose an adaptive scheduler that reallocates training data across domains based on their convergence signals.
-
 - Verify Before You Distill: Prompt-Level Teacher Gating for On-Policy Distillation [![arXiv Paper](https://img.shields.io/badge/arXiv-Paper-b31b1b.svg?logo=arxiv&logoColor=white)](https://arxiv.org/abs/2609.02998)
 
-  Zhiwei Zhang, **Zechen Sun**, Fei Zhao, Kang Peng, Bin Liang, Huayu Deng, Yao Hu, Kam-Fai Wong, Mu Chuan
-
-  We introduce prompt-level teacher gating that uses verification to route prompts to on-policy distillation or reinforcement learning.
+  Zhiwei Zhang, **Zechen Sun<sup>*</sup>**, Fei Zhao, Kang Peng, Bin Liang, Huayu Deng, Yao Hu, Kam-Fai Wong, Mu Chuan (<sup>*</sup> equal contribution)
 
 ---
 
